@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StockMind.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6d57d78542f9cb4acac6c031e2403ff28763741")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19e94d38415e703c7bba366424e7c6c84594f442")]
 [assembly: System.Reflection.AssemblyProductAttribute("StockMind.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StockMind.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

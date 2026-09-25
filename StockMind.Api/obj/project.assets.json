@@ -2252,11 +2252,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mannlex Murillo\\Documents\\Dev\\stockmind\\Backend\\StockMind.Api\\StockMind.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Mannlex Murillo\\Documents\\Dev\\stockmind-backend\\StockMind.Api\\StockMind.Api.csproj",
       "projectName": "StockMind.Api",
-      "projectPath": "C:\\Users\\Mannlex Murillo\\Documents\\Dev\\stockmind\\Backend\\StockMind.Api\\StockMind.Api.csproj",
+      "projectPath": "C:\\Users\\Mannlex Murillo\\Documents\\Dev\\stockmind-backend\\StockMind.Api\\StockMind.Api.csproj",
       "packagesPath": "C:\\Users\\Mannlex Murillo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mannlex Murillo\\Documents\\Dev\\stockmind\\Backend\\StockMind.Api\\obj\\",
+      "outputPath": "C:\\Users\\Mannlex Murillo\\Documents\\Dev\\stockmind-backend\\StockMind.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mannlex Murillo\\AppData\\Roaming\\NuGet\\NuGet.Config",

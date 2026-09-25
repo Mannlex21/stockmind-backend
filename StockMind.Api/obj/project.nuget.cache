@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I+GXsUU6N1U=",
+  "dgSpecHash": "sG/OiubxA1k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mannlex Murillo\\Documents\\Dev\\stockmind\\Backend\\StockMind.Api\\StockMind.Api.csproj",
+  "projectFilePath": "C:\\Users\\Mannlex Murillo\\Documents\\Dev\\stockmind-backend\\StockMind.Api\\StockMind.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mannlex Murillo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Mannlex Murillo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
